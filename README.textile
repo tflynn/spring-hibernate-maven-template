@@ -1,0 +1,5 @@
+h3. spring-hibernate-maven-template
+
+See "A Spring in your step - Starting with Spring":http://olioinfo.net/blog/?p=1426
+
+
